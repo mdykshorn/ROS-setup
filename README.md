@@ -40,6 +40,7 @@ More information on IDE's for ROS can be found [here](http://wiki.ros.org/IDEs)
   3. [linter-clang](https://atom.io/packages/linter-clang)
   4. [autocomplete-clang](https://atom.io/packages/autocomplete-clang)
   5. [clang-format](https://atom.io/packages/clang-format)
+  6. [Docblockr](https://atom.io/packages/docblockr)
 5. open the folder containing your workspace, you will have to create 2 files in this workspace to enable clang and clang-format as described below
 
 #### .clang-format
@@ -83,3 +84,9 @@ As a quick cheat sheet I've put common shortcuts here
 autoformat code `super + shift + k`
 
 lint code `ctrl + s` to save or `ctrl + shift + p` to bring up quick command palette and type `linter: lint`
+
+using docblockr to document code for Doxygen:
+
+Block comment `/** + enter`
+
+Line comment `/// + enter`
