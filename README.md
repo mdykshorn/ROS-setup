@@ -39,6 +39,7 @@ More information on IDE's for ROS can be found [here](http://wiki.ros.org/IDEs)
   2. [linter](https://atom.io/packages/linter)
   3. [linter-clang](https://atom.io/packages/linter-clang)
   4. [autocomplete-clang](https://atom.io/packages/autocomplete-clang)
+  5. [clang-format](https://atom.io/packages/clang-format)
 5. open the folder containing your workspace, you will have to create 2 files in this workspace to enable clang and clang-format as described below
 
 #### .clang-format
